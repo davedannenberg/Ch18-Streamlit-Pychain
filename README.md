@@ -8,6 +8,9 @@ This shows the transactions being written to the ledger.
 
 ![streamlit2](https://user-images.githubusercontent.com/85848524/138997190-db9669dc-36a2-402a-8264-812fc58dfbc4.PNG)
 
+![image](https://user-images.githubusercontent.com/85848524/139159247-bd52e387-cecf-4bb7-ab12-0bde9bce939d.png)
+
+
 This shows the validation.
 
 There is also a difficulty slider - this increases the nonce at which the block is written (higher nonce = higher difficulty):
